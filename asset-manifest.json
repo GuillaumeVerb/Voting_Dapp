@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Voting_Dapp/static/css/main.4156ec63.chunk.css",
+    "main.js": "/Voting_Dapp/static/js/main.3a8a7d5a.chunk.js",
+    "main.js.map": "/Voting_Dapp/static/js/main.3a8a7d5a.chunk.js.map",
+    "runtime-main.js": "/Voting_Dapp/static/js/runtime-main.4c9271fb.js",
+    "runtime-main.js.map": "/Voting_Dapp/static/js/runtime-main.4c9271fb.js.map",
+    "static/js/2.b1aef93c.chunk.js": "/Voting_Dapp/static/js/2.b1aef93c.chunk.js",
+    "static/js/2.b1aef93c.chunk.js.map": "/Voting_Dapp/static/js/2.b1aef93c.chunk.js.map",
+    "index.html": "/Voting_Dapp/index.html",
+    "static/css/main.4156ec63.chunk.css.map": "/Voting_Dapp/static/css/main.4156ec63.chunk.css.map",
+    "static/js/2.b1aef93c.chunk.js.LICENSE.txt": "/Voting_Dapp/static/js/2.b1aef93c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c9271fb.js",
+    "static/js/2.b1aef93c.chunk.js",
+    "static/css/main.4156ec63.chunk.css",
+    "static/js/main.3a8a7d5a.chunk.js"
+  ]
+}
