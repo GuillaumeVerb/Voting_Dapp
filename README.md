@@ -1,4 +1,4 @@
-# Voting-Unit-Test-Smart-Contract
+# Voting-Dapp
 
 # Main scripts
 ✔️ Voting.sol (contracts/Voting.sol): voting smart contract
